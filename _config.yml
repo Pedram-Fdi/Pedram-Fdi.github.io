@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Pedram Farghadani-Chaharsooghi"
+  name             : "Pedram Farghadani"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Operations Research at Concordia University. Interested in disaster management, optimization, and machine learning."
-  location         : "Montreal, QC, Canada"
-  employer         : "Concordia University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "pedramfarghadani@gmail.com" 
+  email            : "none@example.org" 
 
 
   # Academic websites
