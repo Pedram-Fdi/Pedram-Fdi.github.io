@@ -22,7 +22,7 @@ repository               : "pedram-fdi/pedram-fdi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "files/HeadShot.png"
   name             : "Pedram Farghadani-Chaharsooghi"
   pronouns         :
   bio              : "PhD Candidate in Operations Research at Concordia University. Interested in disaster management, optimization, and machine learning."
