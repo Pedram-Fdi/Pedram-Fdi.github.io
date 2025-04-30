@@ -18,6 +18,7 @@ author_profile: true
 *2023*  
 - Mentored two teams during the MILA-hosted Morocco Solidarity Hackathon focused on AI for disaster risk monitoring.  
 - Guided participants in refining ideas, developing mathematical models, and crafting concise project summaries.
+- View project: [KhaimaAI GitHub Repository](https://github.com/Hamagistral/KhaimaAI)
 
 ---
 
