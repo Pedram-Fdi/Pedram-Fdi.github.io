@@ -14,7 +14,7 @@ author_profile: true
 - Proposed an efficient Stochastic Dual Dynamic Programming (SDDP) algorithm to solve a multi-stage stochastic optimization model for allocating scarce resources after disasters, utilizing scenario clustering methods (K-means++, Self-organizing maps).  
 - Developed a Benders decomposition algorithm and benchmarked it against the Progressive Hedging algorithm to determine optimal locations for temporary hospitals.  
 
-**Supervisors**: [Prof. Hossein Hashemi Doulabi](https://www.concordia.ca/faculty/hossein-hashemidoulabi.html), [Prof. Walter Rei](https://professeurs.uqam.ca/professeur/rei.walter/), and [Prof. Michel Gendreau](https://www.polymtl.ca/expertises/gendreau-michel)
+*Supervisors*: [Prof. Hossein Hashemi Doulabi](https://www.concordia.ca/faculty/hossein-hashemidoulabi.html), [Prof. Walter Rei](https://professeurs.uqam.ca/professeur/rei.walter/), and [Prof. Michel Gendreau](https://www.polymtl.ca/expertises/gendreau-michel)
 
 ---
 
@@ -24,7 +24,7 @@ author_profile: true
 
 - Developed heuristic and metaheuristic algorithms to solve the Production-Routing Problem.  
 
-**Supervisor**: [Prof. Behrooz Karimi](https://aut.ac.ir/cv/2096/BEHROOZ-KARIMI?slc_lang=en&&cv=2096&mod=scv)
+*Supervisor*: [Prof. Behrooz Karimi](https://aut.ac.ir/cv/2096/BEHROOZ-KARIMI?slc_lang=en&&cv=2096&mod=scv)
 
 ---
 
