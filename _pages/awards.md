@@ -19,5 +19,16 @@ author_profile: true
 - **Gervaise-Cimon Scholarship** [(Link)](https://www.cirrelt.ca/cirrelt/images/file/2023/2023-2024-recipiendaires.pdf)  
   *CIRRELT, Montreal, QC, Canada*
  
-### 2022
-- Dean’s List, Amirkabir University of Technology
+### 2023
+- **Doctoral scholarships of excellence – Early stages** [(Link)](https://www.cirrelt.ca/cirrelt/images/file/2022/2022-2023-recipiendaires.pdf)
+  *CIRRELT, Montreal, QC, Canada*
+ 
+### 2021
+- **Concordia University Doctoral Graduate Fellowship** [(Link)](https://www.cirrelt.ca/cirrelt/images/file/2022/2022-2023-recipiendaires.pdf) 
+  *Concordia University, Montreal, QC, Canada*
+
+### 2019
+- Ranked 1st among 89 M.Sc. students of Industrial Engineering Department at Amirkabir University of Technology (AUT) who started their graduate studies in the academic year of 2017-2018.
+
+### 2017
+- Ranked 2nd among 59 B.Sc. students of Industrial Engineering Department at Isfahan University of Technology (IUT) who started their undergraduate studies in the academic year of 2013-2014.
