@@ -58,5 +58,5 @@ You can also find my articles on <a href="{{ site.author.googlescholar }}">my Go
 
 - Dehghanpour-Amniyeh, P., **Farghadani-Chaharsooghi, P.**, & Rasti-Barzoki, M. (2019).  
   *Supply Chain and Project Management Contracts.*  
-  Isfahan University of Technology Publication Center. (170-page book)
+  *Isfahan University of Technology Publication Center. (170-page book)
   [Link](https://research.iut.ac.ir/fa/dgr/2828)
