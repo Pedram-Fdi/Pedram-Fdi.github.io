@@ -45,12 +45,12 @@ You can also find my articles on <a href="{{ site.author.googlescholar }}">my Go
 - **Farghadani-Chaharsooghi, P.**, Kamranfar, P., Mirzapour Al-e-Hashem, M. S., & Rekik, Y. (2022).  
   *A Joint Production–Workforce–Delivery Stochastic Planning Problem for Perishable Items.*  
   *International Journal of Production Research*, 60(20), 6148–6172.  
-  [Link](https://www-tandfonline-com.lib-ezproxy.concordia.ca/doi/full/10.1080/00207543.2021.1985736)
+  [Link](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.1985736)
 
 - Majidi, A., **Farghadani-Chaharsooghi, P.**, & Mirzapour Al-e-Hashem, S. M. J. (2022).  
   *Sustainable Pricing–Production–Workforce–Routing Problem for Perishable Products Considering Demand Uncertainty: A Case Study from the Dairy Industry.*  
   *Transportation Journal*, 61(1), 60–102.  
-  [Link](https://scholarlypublishingcollective-org.lib-ezproxy.concordia.ca/psup/transportation-journal/article-abstract/61/1/60/294499/Sustainable-Pricing-Production-Workforce-Routing)
+  [Link](https://scholarlypublishingcollective.org/psup/transportation-journal/article-abstract/61/1/60/294499/Sustainable-Pricing-Production-Workforce-Routing)
 
 ---
 
