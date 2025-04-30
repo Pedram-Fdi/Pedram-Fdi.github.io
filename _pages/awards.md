@@ -26,7 +26,7 @@ author_profile: true
 
 ### 2021
 
-- **Concordia University Doctoral Graduate Fellowship** [(Link)](https://www.cirrelt.ca/cirrelt/images/file/2022/2022-2023-recipiendaires.pdf)  
+- **Concordia University Doctoral Graduate Fellowship**  
   *Concordia University, Montreal, QC, Canada*
 
 ### 2019
