@@ -1,19 +1,19 @@
 ---
-layout: archive
-permalink: /year-archive/
+layout: single
+permalink: /awards/
 title: "Awards"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+Here are some of the awards and honors I have received:
+
+### 2024
+- Best Paper Award at XYZ Conference
+- Research Excellence Fellowship, Concordia University
+
+### 2023
+- CIRRELT Student Research Grant
+- Finalist, INFORMS Student Paper Competition
+
+### 2022
+- Dean’s List, Amirkabir University of Technology
