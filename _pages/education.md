@@ -22,7 +22,7 @@ author_profile: true
 *Sep 2017 – Jan 2020*  
 
 - Developed heuristic and metaheuristic algorithms to solve the Production-Routing Problem.
-
+- **Supervisor**: [Prof. Behrooz Karimi](https://aut.ac.ir/cv/2096/BEHROOZ-KARIMI?slc_lang=en&&cv=2096&mod=scv)
 ---
 
 ### B.Sc. in Industrial Engineering  
