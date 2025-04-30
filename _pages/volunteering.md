@@ -27,3 +27,4 @@ author_profile: true
 *2022*  
 - Organized "Connect" and "Explore" events for newly admitted undergraduate and graduate students.  
 - Coordinated orientation activities to foster connections, promote campus resources, and support academic success.
+- View [Co-Curricular Record (CCR)](https://pedram-fdi.github.io/files/CCR%20Record.pdf)
