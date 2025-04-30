@@ -22,7 +22,10 @@ main:
         
   - title: "Awards"
     url: /awards/
-    
+
+  - title: "Volunteering"
+    url: /volunteering/
+  
   #- title: "CV"
   #  url: /cv/
     
