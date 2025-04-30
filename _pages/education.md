@@ -13,7 +13,7 @@ author_profile: true
 - Developed a combined Reinforcement Learning (Q-Learning, Deep Q-Learning) and Adaptive Large Neighborhood Search (ALNS) algorithm to optimize hospital evacuation strategies in stochastic, post-disaster environments.
 - Investigated the use of Large Language Models (LLMs) and prompt engineering to improve the transparency and interpretability of RL-driven operator selection for decision-makers.
 
-#### Project 2 – Resource Allocation with Dynamic Programming
+#### Project 2 – Resource Allocation Optimization with Dynamic Programming
 - Proposed an efficient Stochastic Dual Dynamic Programming (SDDP) algorithm to solve a multi-stage stochastic optimization model for allocating scarce medical resources after disasters.
 - Integrated scenario clustering techniques such as K-means++ and Self-Organizing Maps to reduce computational complexity.
 
