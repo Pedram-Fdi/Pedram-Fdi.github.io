@@ -4,7 +4,14 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+### 2025
 
+- **"Stochastic Casualty Response Planning with Multiple Classes of Patients"**  
+  Presented with Hossein Hashemi Doulabi, Walter Rei, and Michel Gendreau  
+  *CORS*, Edmonton, Canada, June 9–11, 2025  
+  [View session details](https://site.pheedloop.com/event/cors2025/sessions/SES4FPSJE29QDBX79)  
+  *Role: Presenter*
+  
 ### 2023
 
 - **"Stochastic Casualty Response Planning with Operational Details"**  
