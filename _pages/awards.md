@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2025
-- **Finalist, CORS Healthcare SIG Student Paper Competition** [(Certificate)](/files/Finalist_Certificate.JPG)  
+- **Finalist, CORS Healthcare SIG Student Paper Competition** [(Certificate)](files/Finalist_Certificate.jpg)  
   *Canadian Operational Research Society (CORS), 2025, Canada*
 - **Doctoral Scholarship of Excellence – Final Stages** [(Link)](https://www.cirrelt.ca/cirrelt/images/file/2024/2024-2025-recipiendaires.pdf)  
   *CIRRELT, Montreal, QC, Canada*
