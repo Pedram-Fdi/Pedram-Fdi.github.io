@@ -8,9 +8,6 @@ author_profile: true
 You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
 
 <!--
-
-### 2025
-
 - **Farghadani-Chaharsooghi, P.**, Hashemi Doulabi, H., Rei, W., Gendreau, M. (2025).  
   *A Learning-Based Heuristic for Stochastic Casualty Response Planning with Hospital Evacuation.*  
   Will be submitted to *INFORMS Journal on Optimization*.
@@ -23,11 +20,12 @@ You can also find my articles on <a href="{{ site.author.googlescholar }}">my Go
 
 ---
 
-### 2024
+### 2025
 
-- **Farghadani-Chaharsooghi, P.**, Hashemi Doulabi, H., Rei, W., Gendreau, M. (2024).  
-  *Stochastic Casualty Response Planning with Multiple Classes of Patients.*  
-  *Computers & Operations Research*, under first revision.
+- **Farghadani-Chaharsooghi, P.**, Hashemi Doulabi, H., Rei, W., & Gendreau, M. (2025).  
+  *Stochastic casualty response planning with multiple classes of patients.*  
+  *Computers & Operations Research*, 183, 107165.  
+  [Link](https://www.sciencedirect.com/science/article/pii/S0305054825001935)
 
 ---
 
