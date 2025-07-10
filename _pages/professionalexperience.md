@@ -11,7 +11,6 @@ author_profile: true
 - Designed and implemented Reinforcement Learning models (Q-Learning, Deep Q-Learning) integrated with Adaptive Large Neighborhood Search (ALNS) to optimize decision-making processes under uncertainty in complex environments, including disaster management and resource allocation.  
 - Developed a Stochastic Dual Dynamic Programming (SDDP) algorithm to solve multi-stage stochastic optimization models, improving resource allocation efficiency in dynamic settings such as disaster response.  
 - Applied advanced scenario clustering methods (K-means++, Self-Organizing Maps) combined with stochastic optimization techniques to enhance forecasting, simulation, and decision-making processes in large-scale planning problems.  
-- Leveraged Large Language Models (LLMs) and prompt engineering within RL pipelines to increase explainability and improve human-in-the-loop interpretability, enabling better decision support.  
 - Designed and benchmarked Benders decomposition algorithms to identify optimal locations for temporary hospitals, evaluating their performance against the Progressive Hedging algorithm.
 
 <!--
