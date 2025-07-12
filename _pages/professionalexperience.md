@@ -34,7 +34,7 @@ author_profile: true
 *Fall 2024*  
 - Assisted [Prof. Gerard Gouw](https://www.concordia.ca/faculty/gerard-gouw.html) in delivering and managing labs for the course *Human Factors Engineering*, ensuring smooth execution of laboratory sessions with more than 30 students.
 
-### Data Science Intern – Time Series Forecasting  
+### Time Series Forecasting  
 **OneGym (formerly Science and Power Fitness Club)**, Isfahan, Iran  
 *Jan 2020 – Aug 2020*  
 - Conducted exploratory data analysis on transactional sales data, including cleaning, anomaly detection, and outlier treatment.  
