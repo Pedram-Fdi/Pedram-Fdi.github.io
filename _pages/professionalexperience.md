@@ -9,7 +9,7 @@ author_profile: true
 **CIRRELT**, Montreal, QC  
 *Jan 2021 – Present*  
 - Implemented a Retrieval-Augmented Generation (RAG) pipeline to enhance an AI assistant for disaster planning. The system splits documentation into searchable chunks and retrieves relevant context using keyword-based logic, improving the assistant's ability to answer user queries accurately.
-  [▶️ Demo: RAG for ACFs](https://drive.google.com/file/d/1BD93wFNPUoqg5aCe8r5Y6V5ys2LtnUjI/view?usp=sharing)
+  [▶️ Demo: RAG for ACFs](https://drive.google.com/file/d/1Cjd3syc1J9SaAxIJAySAnkFLeHKD4u0l/view?usp=sharing)
 - Developed a Streamlit + LangChain AI assistant to support hospital evacuation planning during disasters. The app interprets free-text queries, extracts structured planning parameters using prompt-based logic and few-shot examples, and invokes a backend optimization engine. Integrated with Azure OpenAI and dynamic user feedback.  
   [▶️ Demo: LLM for ACFs](https://drive.google.com/file/d/1I1Hlg1Rme-twQYp5AfTtrviWK2hv8EQf/view?usp=sharing)
 - Designed and implemented Reinforcement Learning models (Q-Learning, Deep Q-Learning) integrated with Adaptive Large Neighborhood Search (ALNS) to optimize decision-making processes under uncertainty in complex environments, including disaster management and resource allocation.  
