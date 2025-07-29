@@ -6,6 +6,12 @@ author_profile: true
 ---
 ### 2025
 
+- **"Multi-Stage Disaster Response and Platelet Resource Allocation: A Stochastic Dual Dynamic Programming Approach"**  
+  Presented with Hossein Hashemi Doulabi, Walter Rei, and Michel Gendreau  
+  *International Conference on Stochastic Programming (ICSP)*, Paris, France, 28 July - 1 August, 2025  
+  [View session details](https://indico.math.cnrs.fr/event/13971/contributions/13605/)  
+  *Role: Presenter*
+  
 - **"Stochastic Casualty Response Planning with Multiple Classes of Patients"**  
   Presented with Hossein Hashemi Doulabi, Walter Rei, and Michel Gendreau  
   *CORS*, Edmonton, Canada, June 9–11, 2025  
