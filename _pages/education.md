@@ -7,7 +7,7 @@ author_profile: true
 
 ### Ph.D. Candidate in Operations Research  
 **Concordia University**, Montreal, QC  
-*Jan 2021 – Present*  
+*Jan 2021 – Sep 2025*  
 
 #### Project 3 – Hospital Evacuation Optimization with Reinforcement Learning
 - Developed a combined Reinforcement Learning (Q-Learning, Deep Q-Learning) and Adaptive Large Neighborhood Search (ALNS) algorithm to optimize hospital evacuation strategies in stochastic, post-disaster environments.
