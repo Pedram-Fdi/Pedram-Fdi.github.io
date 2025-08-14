@@ -7,7 +7,7 @@ author_profile: true
 
 ### Data Science and Operations Research Specialist  
 **CIRRELT**, Montreal, QC  
-*Jan 2021 – Present*  
+*Jan 2021 – Sep 2025*  
 - Built a robust Retrieval-Augmented Generation (RAG) system using LangChain, Azure OpenAI embeddings, and FAISS to retrieve context from disaster planning docs and answer technical user queries with an LLM, with fallback text search and query classification logic.
   [▶️ Demo: RAG for ACFs](https://drive.google.com/file/d/1Cjd3syc1J9SaAxIJAySAnkFLeHKD4u0l/view?usp=sharing)
 - Developed a Streamlit + LangChain AI assistant to support hospital evacuation planning during disasters. The app interprets free-text queries, extracts structured planning parameters using prompt-based logic and few-shot examples, and invokes a backend optimization engine. Integrated with Azure OpenAI and dynamic user feedback.  
