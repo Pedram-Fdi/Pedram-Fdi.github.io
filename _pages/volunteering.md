@@ -7,7 +7,7 @@ author_profile: true
 
 ### CIRRELT Student Committee  
 **CIRRELT**, Montreal, QC, Canada  
-*2023 – Present*  
+*2023 – 2025*  
 - Organized professional and social activities for master's, doctoral students, and postdoctoral fellows.  
 - Managed a dynamic Foosball Tournament and coordinated a dart league to strengthen student engagement.
 
