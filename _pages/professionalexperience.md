@@ -5,6 +5,14 @@ permalink: /professionalexperience/
 author_profile: true
 ---
 
+### Data Scientist  
+**DataSphere Lab | McGill University, Canada**  
+*Jun 2025 – Present*  
+- Conducted exploratory data analysis on large-scale transactional sales data from INFASCO, including cleaning, anomaly detection, and outlier handling.  
+- Developed and deployed demand forecasting models using XGBoost and LightGBM, improving prediction accuracy for sales planning.  
+- Applied advanced feature engineering (one-hot encoding, temporal feature extraction) to enhance model performance.  
+- Optimized models through hyperparameter tuning and rigorous evaluation (RMSE, SMAPE), and visualized results to support business decision-making.  
+
 ### Data Science and Operations Research Specialist  
 **CIRRELT**, Montreal, QC  
 *Jan 2021 – Sep 2025*  
