@@ -8,7 +8,7 @@ author_profile: true
 ### Data Scientist  
 **Yeji Data Lab**  
 *Sep 2025 – Present*  
--  
+- Focusing on optimization using Operations Research. 
 
 ### Data Scientist  
 **DataSphere Lab | McGill University, Canada**  
