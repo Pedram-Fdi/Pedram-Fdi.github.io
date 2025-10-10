@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ### Data Scientist  
-**Yeji Data Lab**  
+**Yeji Data Lab**, Montreal, QC  
 *Sep 2025 – Present*  
 - Focusing on optimization using Operations Research. 
 
 ### Data Scientist  
-**DataSphere Lab | McGill University, Canada**  
+**DataSphere Lab | McGill University**, Montreal, QC  
 *Jul 2025 – Sep 2025*  
 - Conducted exploratory data analysis on large-scale transactional sales data from [Infasco](https://infasco.com/en/), including cleaning, anomaly detection, and outlier handling.  
 - Developed and deployed demand forecasting models using XGBoost and LightGBM, improving prediction accuracy for sales planning.  
