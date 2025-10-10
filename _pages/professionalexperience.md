@@ -49,14 +49,6 @@ author_profile: true
 *Fall 2024*  
 - Assisted [Prof. Gerard Gouw](https://www.concordia.ca/faculty/gerard-gouw.html) in delivering and managing labs for the course *Human Factors Engineering*, ensuring smooth execution of laboratory sessions with more than 30 students.
 
-### Time Series Forecasting  
-**OneGym (formerly Science and Power Fitness Club)**, Isfahan, Iran  
-*Jan 2020 – Aug 2020*  
-- Conducted exploratory data analysis on transactional sales data, including cleaning, anomaly detection, and outlier treatment.  
-- Developed time series forecasting models using XGBoost and LightGBM to predict product demand and support planning.  
-- Applied feature engineering techniques such as one-hot encoding and temporal feature extraction to improve model accuracy.  
-- Tuned hyperparameters and evaluated models using RMSE and SMAPE; visualized results to communicate insights clearly.
-
 ### Operations Research Scientist  
 **Amirkabir University of Technology**, Tehran, Iran  
 *Sep 2017 – Jan 2020*  
