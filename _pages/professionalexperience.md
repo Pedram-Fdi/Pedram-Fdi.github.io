@@ -49,12 +49,6 @@ author_profile: true
 *Fall 2024*  
 - Assisted [Prof. Gerard Gouw](https://www.concordia.ca/faculty/gerard-gouw.html) in delivering and managing labs for the course *Human Factors Engineering*, ensuring smooth execution of laboratory sessions with more than 30 students.
 
-### Operations Research Scientist  
-**Amirkabir University of Technology**, Tehran, Iran  
-*Sep 2017 – Jan 2020*  
-- Designed and implemented a decision-making framework for production, routing, inventory, and workforce planning under uncertainty, optimizing large-scale operations.  
-- Modeled a robust production routing problem incorporating demand uncertainty and outsourcing, using genetic algorithms and simulated annealing matheuristics to outperform exact methods on large instances.
-
 ### Software Trainer  
 **FaraDars Educational Institution**, Tehran, Iran  
 *Summer 2019*  
