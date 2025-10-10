@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**AI-focused Data Scientist at the [DataSphere Lab, McGill University](https://www.mcgill.ca/bensadoun-school/data-sphere-lab)** with strong expertise in large language models (LLMs), decision intelligence, and operations research. My work spans exploratory data analysis and demand forecasting with large-scale industry datasets, as well as developing machine learning solutions that drive accurate and actionable insights.  
+**Data Scientist at [Yeji Data Lab](https://yejidatalab.com/)** specializing in **Operations Research (OR)** and **Machine Learning (ML)**. My work bridges analytical modeling and data-driven intelligence, spanning exploratory data analysis, demand forecasting, and the development of optimization-based machine learning solutions that drive accurate and actionable business insights.  
 
 Specialized in building interactive, time-sensitive decision-support tools for high-stakes scenarios, I integrate reinforcement learning, prompt engineering, and optimization into production-grade AI systems. With hands-on experience in scenario-based planning, advanced feature engineering, and rigorous model evaluation, I deliver scalable solutions that bridge research and real-world decision-making.  
 
