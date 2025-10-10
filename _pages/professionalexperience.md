@@ -18,7 +18,7 @@ author_profile: true
 - Applied advanced feature engineering (one-hot encoding, temporal feature extraction) to enhance model performance.  
 - Optimized models through hyperparameter tuning and rigorous evaluation (RMSE, SMAPE), and visualized results to support business decision-making.  
 
-### Data Science and Operations Research Specialist  
+### Operations Research Specialist  
 **CIRRELT**, Montreal, QC  
 *Jan 2021 – Sep 2025*  
 - Built a robust Retrieval-Augmented Generation (RAG) system using LangChain, Azure OpenAI embeddings, and FAISS to retrieve context from disaster planning docs and answer technical user queries with an LLM, with fallback text search and query classification logic.
