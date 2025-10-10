@@ -6,8 +6,13 @@ author_profile: true
 ---
 
 ### Data Scientist  
+**Yeji Data Lab**  
+*Sep 2025 – Present*  
+-  
+
+### Data Scientist  
 **DataSphere Lab | McGill University, Canada**  
-*Jun 2025 – Sep 2025*  
+*Jul 2025 – Sep 2025*  
 - Conducted exploratory data analysis on large-scale transactional sales data from [Infasco](https://infasco.com/en/), including cleaning, anomaly detection, and outlier handling.  
 - Developed and deployed demand forecasting models using XGBoost and LightGBM, improving prediction accuracy for sales planning.  
 - Applied advanced feature engineering (one-hot encoding, temporal feature extraction) to enhance model performance.  
