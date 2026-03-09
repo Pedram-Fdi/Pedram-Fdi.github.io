@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Pedram Farghadani-Chaharsooghi"
 title_separator          : "-"
 name                     : &name "Pedram Farghadani-Chaharsooghi"
-description              : &description "PhD Candidate in Operations Research"
+description              : &description "PhD in Operations Research"
 url                      : https://pedram-fdi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedram-fdi/pedram-fdi.github.io"
