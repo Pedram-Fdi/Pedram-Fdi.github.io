@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Pedram Farghadani"
 title_separator          : "-"
-name                     : &name "Pedram Farghadani-Chaharsooghi"
+name                     : &name "Pedram Farghadani"
 description              : &description "PhD in Operations Research"
 url                      : https://pedram-fdi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   pronouns         :
   bio              : "PhD in Operations Research"
   location         : "Montreal, QC, Canada"
-  employer         : "Concordia University"
+  employer         : "Yeji Data Lab"
   uri              : # URL
   email            : "pedramfarghadani@gmail.com" 
 
