@@ -33,7 +33,7 @@ I am a <strong>Data Scientist at <a href="https://yejidatalab.com/">Yeji Data La
 
 - Built demand forecasting models on large-scale transactional sales data using `XGBoost` and `LightGBM`.
 - Developed applications with `LangChain`, `Azure OpenAI`, and `FAISS` for retrieval, question answering, and optimization-assisted planning.
-- Published work in *Computers & Operations Research*, *RAIRO - Operations Research*, *International Journal of Production Research*, and *Transportation Journal*.
+- Published work in *Computers & Operations Research*, and *International Journal of Production Research*.
 - Presented research at venues including `CORS`, `Optimization Days`, and the `International Conference on Stochastic Programming`.
 
 ## Background
