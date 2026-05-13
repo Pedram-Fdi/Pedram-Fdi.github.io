@@ -6,12 +6,16 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  {% if author.avatar %}
+  {% assign avatar_path = author.avatar | default: "" | strip %}
+  {% assign avatar_first_char = avatar_path | slice: 0, 1 %}
+  {% if avatar_path != blank %}
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% if avatar_path contains "://" %}
+    	<img src="{{ avatar_path }}" class="author__avatar" alt="{{ author.name }}">
+    {% elsif avatar_first_char == "/" %}
+    	<img src="{{ avatar_path | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<img src="{{ avatar_path | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
   {% endif %}
