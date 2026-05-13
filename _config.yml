@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pedram Farghadani-Chaharsooghi"
+title                    : "Pedram Farghadani"
 title_separator          : "-"
 name                     : &name "Pedram Farghadani-Chaharsooghi"
 description              : &description "PhD in Operations Research"
