@@ -4,6 +4,14 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+### 2026
+
+- **"Stochastic Casualty Response Planning with Multiple Classes of Patients"**  
+  Presented with Hossein Hashemi Doulabi, Walter Rei, and Michel Gendreau  
+  *Optimization Days*, Montreal, Quebec, May 11–13, 2026  
+  [View session details](https://symposia.gerad.ca/jopt2026/schedule/details/19)  
+  *Role: Presenter*
+
 ### 2025
 
 - **"Multi-Stage Disaster Response and Platelet Resource Allocation: A Stochastic Dual Dynamic Programming Approach"**  
