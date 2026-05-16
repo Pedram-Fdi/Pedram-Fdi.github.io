@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="lead">
-I am a <strong>Data Scientist at <a href="https://yejidatalab.com/">Yeji Data Lab</a></strong> with a PhD in Operations Research from <a href="https://www.concordia.ca/">Concordia University</a>. I build machine learning, optimization, and AI decision-support systems for complex problems in forecasting, logistics, and healthcare.
+I am a <strong>Data Scientist at <a href="https://yejidatalab.com/">Yeji Data Lab</a></strong> with a PhD in Operations Research from <a href="https://www.concordia.ca/">Concordia University</a> and <a href="https://www.cirrelt.ca/default.aspx">CIRRELT</a>. I build machine learning, optimization, and AI decision-support systems for complex problems in forecasting, logistics, and healthcare.
 </div>
 
 <div class="profile-highlights">
