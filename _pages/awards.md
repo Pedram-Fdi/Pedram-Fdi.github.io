@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2026
-- **Finalist, François Soumis Award** [(Link)](https://www.linkedin.com/posts/gerad_jopt2026-optimisation-recherche-activity-7460326868269993984-8MLF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5e2ysBegzHY0m7fO4Ya5WFUUQRq7474FA)  
+- **Finalist, François Soumis Award** [(Certificate)](/files/Francois_Soumis_Award_Certificate.png)  
   *Optimization Days 2026, Canada*  
   For the paper *Stochastic casualty response planning with multiple classes of patients*.
 
