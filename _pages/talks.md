@@ -6,6 +6,9 @@ author_profile: true
 ---
 ### 2026
 
+- **"From PhD to Industry: Identifying and Showcasing your Transferable Skills"** Panel discussion at [PhD Career Connect](https://www.concordia.ca/gradstudies/professional-skills/phd-career-connect.html), Concordia University, Montreal, Quebec, June 11, 2026
+  *Role: [Panelist](https://www.linkedin.com/posts/gradproskills_phdcareerconnect-careerdevelopment-professionaldevelopment-activity-7471254402570301440-FsDK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5e2ysBegzHY0m7fO4Ya5WFUUQRq7474FA)*
+  
 - **"Stochastic Casualty Response Planning with Multiple Classes of Patients"**  
   Presented with Hossein Hashemi Doulabi, Walter Rei, and Michel Gendreau  
   *Optimization Days*, Montreal, Quebec, May 11–13, 2026  
