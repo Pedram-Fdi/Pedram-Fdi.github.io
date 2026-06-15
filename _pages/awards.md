@@ -18,7 +18,7 @@ author_profile: true
 
 ### 2024
 
-- **Rendez-vous En route de Propulsion Québec – Contest Winner** [(Link)](https://www.ensemblertl.ca/une-journee-gagnante-au-rdv-en-route/)  
+- **Rendez-vous En route de Propulsion Québec – Contest Winner** [(Link)](https://www.linkedin.com/posts/rtl-longueuil_rdvenroute-activity-7175540847122239492-n6we?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5e2ysBegzHY0m7fO4Ya5WFUUQRq7474FA)  
   *Réseau de transport de Longueuil (RTL), Longueuil, QC, Canada*  
   Designed an innovative solution for electric bus scheduling and charging station planning, earning first place in the competition.
 
