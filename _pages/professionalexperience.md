@@ -8,8 +8,22 @@ author_profile: true
 ### Data Scientist  
 **Yeji Data Lab**, Montreal, QC  
 *Sep 2025 – Present*  
-- Develop optimization-driven decision-support workflows for business and operational planning problems.  
-- Apply operations research methods to structure complex planning needs into practical, scalable models.
+
+#### Automated Workforce Scheduling Optimization for a Major Retail Client
+- Designed and implemented a **production MIP scheduler** in **Pyomo** to assign field representatives to retail locations across regions and programs, maximizing predicted sales under complex operational constraints.
+- Deployed **HiGHS** as the primary MIP solver, with support for **CBC**, **GLPK**, and **SCIP**; tuned solver parameters including time limits, optimality gap tolerance, parallel threads, and MIP heuristics for large instances.
+- Implemented an **adaptive solving strategy** that automatically selects standard optimization vs. **binary-search constraint programming** based on problem size, finding maximum feasible sales targets for large rep/location sets.
+- Prototyped an alternative **constraint programming** formulation using **Google OR-Tools CP-SAT** for experimentation and model validation.
+- Built an **ML pipeline** to predict representative performance using **XGBoost**, **LightGBM**, and **Random Forest**, with automatic model selection, **Optuna** hyperparameter tuning, temporal train/test splits, and **quantile regression** models (Q10/Q90) for prediction intervals.
+- Engineered features from historical shift data, **Canadian census** demographics, holiday calendars, weather data (**Open-Meteo**), and rolling/lag statistics; applied sample weighting for low/high performers and recent data.
+- Evaluated models with **SHAP** analysis and feature importance; classified representatives by performance consistency (coefficient of variation) to support estimator selection and error analysis.
+- Integrated **Google Maps Distance Matrix API** for travel-time and proximity calculations between representative home locations and retail sites, with caching to reduce API costs.
+- Used **OpenAI structured-output parsing** to extract location availability and capacity from unstructured notes, enabling deterministic optimization inputs.
+- Deployed a **cloud-native AWS architecture**: **API Gateway**, **Lambda** (trigger and ML inference), **Step Functions** orchestration, **AWS Batch** (Dockerized EC2 jobs), **S3** (models, configs, results), **ECR**, **RDS** (MySQL), and **VPC endpoints** for private connectivity.
+- Containerized the optimization workflow with **Docker** and automated image builds via **AWS CodeBuild**; provisioned infrastructure with **AWS CDK**.
+- Implemented database integration via **SQLAlchemy** and stored procedures for scheduling data ingestion; persisted optimized schedules.
+- Developed **Streamlit** dashboards for backtesting, performance-estimator comparison, and weekly APH analysis to validate models before production deployment.
+- Established **CI** quality gates with **GitHub Actions** and **Ruff** linting/format checks on the production codebase.
 
 ### Data Scientist  
 **DataSphere Lab | McGill University**, Montreal, QC  
