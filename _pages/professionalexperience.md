@@ -9,8 +9,8 @@ author_profile: true
 **Yeji Data Lab**, Montreal, QC  
 *Sep 2025 – Present*  
 
-#### Automated Workforce Scheduling Optimization for a Major Retail Client
-- Designed and implemented a **production MIP scheduler** in **Pyomo** to assign field representatives to retail locations across regions and programs, maximizing predicted sales under complex operational constraints.
+<h4 class="experience-project">Automated Workforce Scheduling Optimization for a Major Retail Client</h4>
+- Designed and implemented a **production MIP scheduler** to assign field representatives to retail locations across regions and programs, maximizing predicted sales under complex operational constraints.
 - Deployed **HiGHS** as the primary MIP solver, with support for **CBC**, **GLPK**, and **SCIP**; tuned solver parameters including time limits, optimality gap tolerance, parallel threads, and MIP heuristics for large instances.
 - Implemented an **adaptive solving strategy** that automatically selects standard optimization vs. **binary-search constraint programming** based on problem size, finding maximum feasible sales targets for large rep/location sets.
 - Prototyped an alternative **constraint programming** formulation using **Google OR-Tools CP-SAT** for experimentation and model validation.
