@@ -19,13 +19,6 @@ author_profile: true
 - Implemented database integration via **SQLAlchemy** and stored procedures for scheduling data ingestion; persisted optimized schedules.
 - Established **CI** quality gates with **GitHub Actions** and **Ruff** linting/format checks on the production codebase.
 
-### Data Scientist  
-**DataSphere Lab | McGill University**, Montreal, QC  
-*Jul 2025 – Sep 2025*  
-- Analyzed large-scale transactional sales data from [Infasco](https://infasco.com/en/) for industrial demand-planning use cases, including cleaning, anomaly detection, and outlier treatment.  
-- Built and evaluated demand forecasting models using `XGBoost` and `LightGBM` to support sales-planning decisions.  
-- Engineered temporal and categorical features, tuned models, and assessed performance using `RMSE` and `SMAPE` to improve predictive accuracy.  
-
 ## Operations Research Specialist  
 **CIRRELT**, Montreal, QC  
 *Jan 2021 – Sep 2025*  
