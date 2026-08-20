@@ -5,9 +5,13 @@ permalink: /professionalexperience/
 author_profile: true
 ---
 
+## Senior Data Scientist  
+**[TechBlocks](https://tblocks.com/)**, Montreal, QC  
+*Aug 2026 – Present*  
+
 ## Data Scientist  
 **Yeji Data Lab**, Montreal, QC  
-*Sep 2025 – Present*  
+*Sep 2025 – Aug 2026*  
 
 ### *Project: Automated Workforce Scheduling Optimization for a Major Retail Client*
 - Designed and deployed an **end-to-end production MIP scheduler** that assigns field representatives to retail locations, **maximizing** sales volume under complex operational constraints.
