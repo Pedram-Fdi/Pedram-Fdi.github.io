@@ -10,7 +10,7 @@ author_profile: true
 *Aug 2026 – Present*  
 
 ## Data Scientist  
-**Yeji Data Lab**, Montreal, QC  
+**[Yeji Data Lab](https://yejidatalab.com/)**, Montreal, QC  
 *Sep 2025 – Aug 2026*  
 
 ### *Project: Automated Workforce Scheduling Optimization for a Major Retail Client*
@@ -30,7 +30,7 @@ author_profile: true
 - Architected and deployed cloud infrastructure on **Microsoft Azure** using **Bicep**, including **Azure Container Apps**, **Container Apps Jobs**, **Azure Container Registry**, **Azure SQL**, **Blob Storage**, **Key Vault**, **App Service**, and **Microsoft Entra ID**.
 
 ## Operations Research Specialist  
-**CIRRELT**, Montreal, QC  
+**[CIRRELT](https://www.cirrelt.ca/default.aspx)**, Montreal, QC  
 *Jan 2021 – Sep 2025*  
 - Built a Retrieval-Augmented Generation (RAG) system using `LangChain`, `Azure OpenAI` embeddings, and `FAISS` to retrieve disaster-planning context and answer technical user queries, with fallback search and query-classification logic.
   [▶️ Demo: RAG for ACFs](https://drive.google.com/file/d/1Cjd3syc1J9SaAxIJAySAnkFLeHKD4u0l/view?usp=sharing)
