@@ -19,6 +19,12 @@ author_profile: true
 - Implemented database integration via **SQLAlchemy** and stored procedures for scheduling data ingestion; persisted optimized schedules.
 - Established **CI** quality gates with **GitHub Actions** and **Ruff** linting/format checks on the production codebase.
 
+### *Project: Real-Time Computer Vision Traffic Intelligence Platform*
+- Designed and deployed a production computer vision pipeline that ingests live traffic camera streams, detects and tracks vehicles using **Ultralytics YOLOv8** and **ByteTrack**, and stores traffic counts and speed metrics in **Azure SQL** for real-time operational dashboards.
+- Implemented multi-camera vehicle speed estimation using ROI polygons, virtual speed gates, and **OpenCV** homography-based calibration to convert image-space trajectories into accurate real-world speeds.
+- Built a camera-view integrity monitoring system using **OpenCV** feature matching (**ORB**, **RANSAC**, **CLAHE**, **Canny**) to detect viewpoint drift that could invalidate calibrated analytics.
+- Architected and deployed cloud infrastructure on **Microsoft Azure** using **Bicep**, including **Azure Container Apps**, **Container Apps Jobs**, **Azure Container Registry**, **Azure SQL**, **Blob Storage**, **Key Vault**, **App Service**, and **Microsoft Entra ID**.
+
 ## Operations Research Specialist  
 **CIRRELT**, Montreal, QC  
 *Jan 2021 – Sep 2025*  
