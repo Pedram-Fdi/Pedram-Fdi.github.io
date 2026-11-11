@@ -9,6 +9,11 @@ author_profile: true
 **[TechBlocks](https://tblocks.com/)**, Montreal, QC  
 *Aug 2026 – Present*  
 
+### *Project: Enterprise Propane Supply Chain Optimization*
+- Engineered a dynamic **actuals-cutover framework** for a production multi-period **MIP** supply-chain optimizer (**Python**), reconciling live operational actuals with forecasts via remaining-demand logic, rolling start dates, and inventory snapshot initialization.
+- Designed Canada–US cross-border flow policies, terminal outbound capacity constraints, and rail supplier- vs own-car network modes to enforce feasible multi-period sourcing and trade-flow scenarios.
+- Built automated **ETL** pipelines integrating multi-source shipment actuals into optimization reporting, with Actuals vs Optimized provenance and regression-tested delivery through **Azure DevOps**.
+
 ## Data Scientist  
 **[Yeji Data Lab](https://yejidatalab.com/)**, Montreal, QC  
 *Sep 2025 – Aug 2026*  
